@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Caspar",
+"dataUrl": "Done.data.unityweb",
+"asmCodeUrl": "Done.asm.code.unityweb",
+"asmMemoryUrl": "Done.asm.memory.unityweb",
+"asmFrameworkUrl": "Done.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
